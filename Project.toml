@@ -1,0 +1,9 @@
+name = "JuliaBook2023Samples"
+uuid = "f3567afb-7fd7-49eb-bde5-831522eaec59"
+authors = ["GOTOH Shunsuke <antimon2.me@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+Primes = "27ebfcd6-29c5-5fa9-bf4b-fb8fc14df3ae"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
