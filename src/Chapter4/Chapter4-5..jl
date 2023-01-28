@@ -57,10 +57,13 @@ struct MySingleton end
 
 # #### コード4-48. 型定義の例 (5)：可変構造体の定義例
 
+# このまま実行すると後ほど「invalid redefinition of constant Future」というエラーが出てしまうのでコメントアウト
+#=
 mutable struct Future
     value
     done::Bool
 end
+=#
 
 mutable struct MPoint2D{T} <: AbstractPoint{T}
     x::T
