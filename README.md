@@ -62,9 +62,9 @@
 + 一定時間経過すると強制終了します（起動しっぱなしにはできません）。
 + マルチスレッドのサンプルは期待通りに動作しません（シングルコアしか割り当てられない仕様となっています）。
 
-### 4. Sagemaker Studio Lab で利用する
+### 4. SageMaker Studio Lab で利用する
 
-本リポジトリの `notebooks` は [Sagemaker Studio Lab](https://aws.amazon.com/jp/sagemaker/studio-lab/)（以下 Studio Lab と略記）でも動作します。  
+本リポジトリの `notebooks` は [Amazon SageMaker Studio Lab](https://aws.amazon.com/jp/sagemaker/studio-lab/)（以下 Studio Lab と略記）でも動作します。  
 すでにアカウントをお持ちの方は以下の手順に従ってください。
 
 1. 公式に用意されている [サンプルリポジトリ](https://github.com/aws/studio-lab-examples) の手順（[Juliaのインストール](https://github.com/aws/studio-lab-examples/blob/d772f7701fdb2b69f762062116a0ca2336594cb5/custom-environments/julia/1-install-julia.ipynb)）に従って、Studio Lab のお使いの環境に Julia をインストールする。
