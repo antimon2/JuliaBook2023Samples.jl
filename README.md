@@ -1,5 +1,5 @@
 # JuliaBook2023Samples.jl
-2022/03/15 発売（予定）の『実践Julia入門』のサンプルコード。
+2023/03/15 発売の『実践Julia入門』のサンプルコード。
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/antimon2/JuliaBook2023Samples.jl/HEAD?urlpath=lab%2Ftree%2Fnotebooks) [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/antimon2/JuliaBook2023Samples.jl/blob/main/notebooks/instantiate.ipynb)
 
